@@ -8,7 +8,7 @@ Installation
 
 To install with pip, run:
 
-    pip install wizcoin
+pip install wizcoin
 
 Quickstart Guide
 ----------------
